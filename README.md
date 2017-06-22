@@ -26,4 +26,4 @@ Phase 7: Dynamic Array
 
   -dynamic resizing for amortized O(1) push and pop operations
   
-  -incorporates circular buffer principles to enable shift and unshift operations in O(1) time while minimizing space usage
+  -incorporates ring buffer principles to enable shift and unshift operations in O(1) time while minimizing space usage
