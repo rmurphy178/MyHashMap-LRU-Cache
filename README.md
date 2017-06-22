@@ -2,11 +2,11 @@
 
 Phase 1: IntSet
 
-a. Max Integer Set
+  a. Max Integer Set
 
-b. Integer Set
+  b. Integer Set
 
-c. Resizing Integer Set
+  c. Resizing Integer Set
   
 Phase 2: Hashing
 
@@ -16,11 +16,11 @@ Phase 4: Linked List
 
 Phase 5: HashMap
 
--implemented with linked lists as hash buckets in place of arrays
+  -implemented with linked lists as hash buckets in place of arrays
   
 Phase 6: LRU Cache
 
--Combines hash map and linked list data structures to allow O(1) lookup, insertion and deletion for cache
+  -Combines hash map and linked list data structures to allow O(1) lookup, insertion and deletion for cache
   
 Phase 7: Dynamic Array
 
