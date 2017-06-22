@@ -18,5 +18,5 @@ Phase 6: LRU Cache
 -Combines hash map and linked list data structures to allow O(1) lookup, insertion and deletion for cache
   
 Phase 7: Dynamic Array
--dynamic resizing for amortized O(1) push and pop operations
--incorporates circular buffer principles to enable shift and unshift operations in O(1) time while minimizing space usage
+  #dynamic resizing for amortized O(1) push and pop operations
+  #incorporates circular buffer principles to enable shift and unshift operations in O(1) time while minimizing space usage
